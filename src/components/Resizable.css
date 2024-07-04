@@ -1,0 +1,31 @@
+.slider-container{
+    background-color: rgb(166, 169, 177);
+    width: 80%;
+    margin: 0 auto;
+    padding: 40px;
+    color: rgb(96, 101, 107);
+    font-size: 23px;
+    border-radius: 5px;
+    }
+    
+    .slider-container img{
+    background-color: rgb(255, 254, 254);
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    }
+    
+    .button {
+    padding: 5px;
+    margin: 10px;
+    margin-bottom: 40px;
+    background-color: rgb(51, 51, 70);
+    border-radius: 5px;
+    color: aliceblue;
+    }
+    
+    .settings {
+    height: 100px;
+    }
